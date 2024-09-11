@@ -18,25 +18,15 @@ Here are step-by-step instructions on how to download the GitHub repo and run th
      ```bash
      cd espnapiscraper
      ```
-
-### 3. **Create a Virtual Environment (Optional but Recommended)**
-   - You can create a virtual environment to keep your Python packages organized:
-     ```bash
-     python3 -m venv venv
-     ```
-   - Activate the virtual environment:
-     ```bash
-     source venv/bin/activate
-     ```
-
-### 4. **Install Required Packages**
+     
+### 3. **Install Required Packages**
    - Install the `espn_api` package used in the `main.py` script. You’ll also need to install `csv`, but it’s part of Python's standard library, so no additional installation is required.
    - Run the following command to install `espn_api`:
      ```bash
      pip install espn-api
      ```
 
-### 5. **Run the Script**
+### 4. **Run the Script**
    - Now, run the `main.py` script by typing:
      ```bash
      python main.py
@@ -48,11 +38,5 @@ Here are step-by-step instructions on how to download the GitHub repo and run th
      4. **SWID**: Paste your `swid` cookie value.
 
    - After providing these values, the script will generate a CSV file with weekly scores and free agents, saving it in the current directory.
-
-### 6. **Deactivate the Virtual Environment (Optional)**
-   - Once you're done, deactivate the virtual environment by running:
-     ```bash
-     deactivate
-     ```
 
 This process should set up the repository and run the `main.py` script smoothly on your Mac!
