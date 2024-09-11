@@ -2,10 +2,10 @@ import csv
 from espn_api.football import League
 
 # Replace with your actual cookie values
-league_id = int(input('Input your league id'))
-year = int(input('Input your year'))
-espn_s2 = input('Input your espns2')
-swid = input('Input your swid')
+league_id = int(input('Input your league id: '))
+year = int(input('Input your year: '))
+espn_s2 = input('Input your espns2: ')
+swid = input('Input your swid: ')
 
 # Initialize the League object with authentication
 league = League(league_id=league_id, year=year, espn_s2=espn_s2, swid=swid)
