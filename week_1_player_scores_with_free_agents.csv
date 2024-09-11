@@ -1,0 +1,665 @@
+PlayerName,Score,Team,SlotPosition
+Amon-Ra St. Brown,4.3,Team Bryler,WR
+Kyren Williams,14.4,Team Bryler,RB
+De'Von Achane,23.0,Team Bryler,RB
+Michael Pittman Jr.,7.1,Team Bryler,WR
+Deebo Samuel Sr.,18.7,Team Bryler,RB/WR/TE
+Kyler Murray,14.18,Team Bryler,QB
+Tank Dell,8.9,Team Bryler,BE
+Keenan Allen,6.9,Team Bryler,BE
+Jaylen Warren,4.0,Team Bryler,BE
+Jordan Addison,6.5,Team Bryler,BE
+Ezekiel Elliott,12.9,Team Bryler,BE
+Dallas Goedert,7.1,Team Bryler,TE
+Justin Herbert,10.36,Team Bryler,BE
+Tyler Conklin,1.6,Team Bryler,BE
+Steelers D/ST,13.0,Team Bryler,D/ST
+Greg Zuerlein,1.0,Team Bryler,K
+Breece Hall,18.3,Easy Breecey ,RB
+Garrett Wilson,12.0,Easy Breecey ,WR
+Marvin Harrison Jr.,1.4,Easy Breecey ,WR
+Jalen Hurts,17.42,Easy Breecey ,QB
+Sam LaPorta,8.5,Easy Breecey ,TE
+George Pickens,13.5,Easy Breecey ,RB/WR/TE
+Stefon Diggs,21.9,Easy Breecey ,BE
+Tony Pollard,18.4,Easy Breecey ,RB
+Christian Watson,10.3,Easy Breecey ,BE
+Devin Singletary,9.2,Easy Breecey ,BE
+Jonathon Brooks,0.0,Easy Breecey ,IR
+Brandon Aubrey,21.0,Easy Breecey ,K
+Khalil Shakir,13.2,Easy Breecey ,BE
+Dalton Schultz,4.6,Easy Breecey ,BE
+Bengals D/ST,5.0,Easy Breecey ,D/ST
+Ty Chandler,7.2,Easy Breecey ,BE
+Jared Goff,12.38,Easy Breecey ,BE
+Bijan Robinson,16.1,Caroloni,RB
+Josh Allen,31.18,Caroloni,QB
+DK Metcalf,5.9,Caroloni,WR
+James Cook,13.3,Caroloni,RB
+Calvin Ridley,8.0,Caroloni,WR
+Joe Burrow,8.06,Caroloni,BE
+George Kittle,8.0,Caroloni,TE
+Terry McLaurin,3.7,Caroloni,RB/WR/TE
+Courtland Sutton,7.8,Caroloni,BE
+Cowboys D/ST,20.0,Caroloni,D/ST
+Jake Elliott,10.0,Caroloni,K
+Jerry Jeudy,11.5,Caroloni,BE
+Tyler Lockett,13.7,Caroloni,BE
+Adam Thielen,7.9,Caroloni,BE
+Jameson Williams,25.4,Caroloni,BE
+Antonio Gibson,1.8,Caroloni,BE
+Christian McCaffrey,0.0,The Real Joanna,RB
+Travis Etienne Jr.,11.9,The Real Joanna,RB
+Mike Evans,23.1,The Real Joanna,WR
+Brandon Aiyuk,4.8,The Real Joanna,WR
+Zay Flowers,11.1,The Real Joanna,RB/WR/TE
+Chris Godwin,22.3,The Real Joanna,BE
+Evan Engram,1.5,The Real Joanna,TE
+Brian Robinson Jr.,17.9,The Real Joanna,BE
+Brock Purdy,10.34,The Real Joanna,QB
+Chase Brown,5.3,The Real Joanna,BE
+Keon Coleman,9.1,The Real Joanna,BE
+T.J. Hockenson,0.0,The Real Joanna,IR
+Chuba Hubbard,1.4,The Real Joanna,BE
+Saints D/ST,19.0,The Real Joanna,D/ST
+DeMario Douglas,3.2,The Real Joanna,BE
+Jake Bates,8.0,The Real Joanna,K
+Bucky Irving,9.6,The Real Joanna,BE
+Ja'Marr Chase,12.2,Jakobi and Meyers Esq.,WR
+Isiah Pacheco,15.8,Jakobi and Meyers Esq.,RB
+Drake London,3.5,Jakobi and Meyers Esq.,WR
+Patrick Mahomes,15.14,Jakobi and Meyers Esq.,QB
+D'Andre Swift,5.0,Jakobi and Meyers Esq.,RB
+Trey McBride,8.0,Jakobi and Meyers Esq.,TE
+Diontae Johnson,3.9,Jakobi and Meyers Esq.,RB/WR/TE
+Zamir White,4.6,Jakobi and Meyers Esq.,BE
+Tyjae Spears,7.2,Jakobi and Meyers Esq.,BE
+Ladd McConkey,14.9,Jakobi and Meyers Esq.,BE
+Jakobi Meyers,9.4,Jakobi and Meyers Esq.,BE
+Kirk Cousins,6.2,Jakobi and Meyers Esq.,BE
+Pat Freiermuth,6.7,Jakobi and Meyers Esq.,BE
+Ravens D/ST,3.0,Jakobi and Meyers Esq.,D/ST
+Younghoe Koo,4.0,Jakobi and Meyers Esq.,K
+Adonai Mitchell,1.2,Jakobi and Meyers Esq.,BE
+CeeDee Lamb,13.6,Team Dorace,WR
+Derrick Henry,10.6,Team Dorace,RB
+Chris Olave,3.1,Team Dorace,WR
+Lamar Jackson,25.12,Team Dorace,QB
+DeVonta Smith,15.4,Team Dorace,RB/WR/TE
+Rhamondre Stevenson,21.6,Team Dorace,RB
+Amari Cooper,3.6,Team Dorace,BE
+Jaxon Smith-Njigba,3.9,Team Dorace,BE
+David Njoku,8.4,Team Dorace,TE
+Raheem Mostert,3.9,Team Dorace,BE
+Nick Chubb,0.0,Team Dorace,IR
+Gus Edwards,3.8,Team Dorace,BE
+DeAndre Hopkins,1.8,Team Dorace,BE
+Browns D/ST,5.0,Team Dorace,D/ST
+Harrison Butker,9.0,Team Dorace,K
+Trevor Lawrence,11.28,Team Dorace,BE
+Curtis Samuel,3.5,Team Dorace,BE
+Justin Jefferson,15.9,Slandr,WR
+Jahmyr Gibbs,17.4,Slandr,RB
+Nico Collins,17.7,Slandr,WR
+Josh Jacobs,12.4,Slandr,RB
+DJ Moore,10.0,Slandr,RB/WR/TE
+Mark Andrews,3.4,Slandr,TE
+Jordan Love,17.4,Slandr,QB
+Kyle Pitts,11.6,Slandr,BE
+Xavier Worthy,20.8,Slandr,BE
+Javonte Williams,3.3,Slandr,BE
+Caleb Williams,7.22,Slandr,BE
+Jerome Ford,18.9,Slandr,BE
+Trey Benson,2.8,Slandr,BE
+49ers D/ST,8.0,Slandr,D/ST
+Blake Corum,0.0,Slandr,BE
+Justin Tucker,7.0,Slandr,K
+Jonathan Taylor,10.8,Dradeline,RB
+A.J. Brown,23.9,Dradeline,WR
+Rachaad White,16.6,Dradeline,RB
+Alvin Kamara,22.0,Dradeline,RB/WR/TE
+Jaylen Waddle,16.2,Dradeline,WR
+Anthony Richardson,28.08,Dradeline,BE
+Dalton Kincaid,2.1,Dradeline,TE
+Dak Prescott,11.46,Dradeline,QB
+Jayden Reed,34.1,Dradeline,BE
+Rome Odunze,2.1,Dradeline,BE
+Brock Bowers,11.8,Dradeline,BE
+J.K. Dobbins,22.9,Dradeline,BE
+Darnell Mooney,2.5,Dradeline,BE
+Kendrick Bourne,0.0,Dradeline,IR
+Dolphins D/ST,10.0,Dradeline,D/ST
+Jake Moody,26.0,Dradeline,K
+Jaleel McLaughlin,5.8,Dradeline,BE
+Tyreek Hill,27.0,Team Jabbython,WR
+Travis Kelce,6.4,Team Jabbython,TE
+Davante Adams,10.9,Team Jabbython,WR
+Cooper Kupp,32.0,Team Jabbython,RB/WR/TE
+Kenneth Walker III,18.9,Team Jabbython,RB
+C.J. Stroud,18.66,Team Jabbython,QB
+James Conner,19.3,Team Jabbython,RB
+Christian Kirk,4.0,Team Jabbython,BE
+Najee Harris,8.9,Team Jabbython,BE
+Austin Ekeler,10.2,Team Jabbython,BE
+Brian Thomas Jr.,14.7,Team Jabbython,BE
+Mike Williams,0.0,Team Jabbython,BE
+Hollywood Brown,0.0,Team Jabbython,BE
+Zach Charbonnet,12.1,Team Jabbython,BE
+Jets D/ST,-1.0,Team Jabbython,D/ST
+Evan McPherson,6.0,Team Jabbython,K
+Saquon Barkley,33.2,Turd Ferguson,RB
+Puka Nacua,8.2,Turd Ferguson,WR
+Malik Nabers,11.6,Turd Ferguson,RB/WR/TE
+Joe Mixon,26.8,Turd Ferguson,RB
+Tee Higgins,0.0,Turd Ferguson,BE
+Rashee Rice,17.3,Turd Ferguson,WR
+Aaron Jones,18.9,Turd Ferguson,BE
+David Montgomery,16.3,Turd Ferguson,BE
+Jayden Daniels,28.16,Turd Ferguson,QB
+Jake Ferguson,4.5,Turd Ferguson,TE
+Zack Moss,14.1,Turd Ferguson,BE
+Aaron Rodgers,8.58,Turd Ferguson,BE
+Gabe Davis,9.2,Turd Ferguson,BE
+Chiefs D/ST,-1.0,Turd Ferguson,BE
+Ka'imi Fairbairn,17.0,Turd Ferguson,K
+Vikings D/ST,22.0,Turd Ferguson,D/ST
+Tua Tagovailoa,19.62,Free Agent / Waivers,N/A
+Cameron Dicker,12.0,Free Agent / Waivers,N/A
+Rashid Shaheed,17.3,Free Agent / Waivers,N/A
+Tyler Allgeier,2.1,Free Agent / Waivers,N/A
+Baker Mayfield,29.66,Free Agent / Waivers,N/A
+Seahawks D/ST,13.0,Free Agent / Waivers,N/A
+Ty Chandler,7.2,Free Agent / Waivers,N/A
+Jaguars D/ST,0.0,Free Agent / Waivers,N/A
+Cairo Santos,13.0,Free Agent / Waivers,N/A
+Lions D/ST,3.0,Free Agent / Waivers,N/A
+Curtis Samuel,3.5,Free Agent / Waivers,N/A
+Taysom Hill,4.6,Free Agent / Waivers,N/A
+Matthew Stafford,14.68,Free Agent / Waivers,N/A
+Bears D/ST,27.0,Free Agent / Waivers,N/A
+Joshua Palmer,3.5,Free Agent / Waivers,N/A
+Rico Dowdle,4.2,Free Agent / Waivers,N/A
+Deshaun Watson,10.66,Free Agent / Waivers,N/A
+Cole Kmet,1.4,Free Agent / Waivers,N/A
+Brandin Cooks,14.5,Free Agent / Waivers,N/A
+Allen Lazard,26.9,Free Agent / Waivers,N/A
+Romeo Doubs,9.0,Free Agent / Waivers,N/A
+Xavier Legette,7.5,Free Agent / Waivers,N/A
+Ja'Lynn Polk,1.6,Free Agent / Waivers,N/A
+Alexander Mattison,16.2,Free Agent / Waivers,N/A
+Jaylen Wright,0.0,Free Agent / Waivers,N/A
+Demarcus Robinson,8.2,Free Agent / Waivers,N/A
+Justin Fields,11.94,Free Agent / Waivers,N/A
+Vikings D/ST,22.0,Free Agent / Waivers,N/A
+MarShawn Lloyd,0.0,Free Agent / Waivers,N/A
+Chig Okonkwo,9.5,Free Agent / Waivers,N/A
+Texans D/ST,4.0,Free Agent / Waivers,N/A
+Khalil Herbert,0.4,Free Agent / Waivers,N/A
+Bills D/ST,8.0,Free Agent / Waivers,N/A
+Juwan Johnson,10.6,Free Agent / Waivers,N/A
+Michael Wilson,7.5,Free Agent / Waivers,N/A
+Matt Gay,0.0,Free Agent / Waivers,N/A
+Jason Sanders,9.0,Free Agent / Waivers,N/A
+Chris Boswell,26.0,Free Agent / Waivers,N/A
+Dontayvion Wicks,0.0,Free Agent / Waivers,N/A
+Geno Smith,17.84,Free Agent / Waivers,N/A
+Eagles D/ST,1.0,Free Agent / Waivers,N/A
+Dustin Hopkins,7.0,Free Agent / Waivers,N/A
+Tyler Bass,10.0,Free Agent / Waivers,N/A
+Miles Sanders,2.2,Free Agent / Waivers,N/A
+Kendre Miller,0.0,Free Agent / Waivers,N/A
+Falcons D/ST,4.0,Free Agent / Waivers,N/A
+Wan'Dale Robinson,11.8,Free Agent / Waivers,N/A
+Ray Davis,3.7,Free Agent / Waivers,N/A
+Tank Bigsby,7.3,Free Agent / Waivers,N/A
+Bo Nix,11.02,Free Agent / Waivers,N/A
+Hunter Henry,3.8,Free Agent / Waivers,N/A
+Josh Downs,0.0,Free Agent / Waivers,N/A
+Justice Hill,11.5,Free Agent / Waivers,N/A
+Tyrone Tracy Jr.,1.7,Free Agent / Waivers,N/A
+Alec Pierce,22.5,Free Agent / Waivers,N/A
+Bryce Young,9.64,Free Agent / Waivers,N/A
+Colts D/ST,2.0,Free Agent / Waivers,N/A
+Will Levis,6.68,Free Agent / Waivers,N/A
+Chase McLaughlin,15.0,Free Agent / Waivers,N/A
+Derek Carr,22.3,Free Agent / Waivers,N/A
+Jamaal Williams,12.1,Free Agent / Waivers,N/A
+Braelon Allen,2.7,Free Agent / Waivers,N/A
+Commanders D/ST,-3.0,Free Agent / Waivers,N/A
+Clyde Edwards-Helaire,0.0,Free Agent / Waivers,N/A
+Jeff Wilson Jr.,2.6,Free Agent / Waivers,N/A
+Marvin Mims Jr.,0.0,Free Agent / Waivers,N/A
+Cade Otton,1.5,Free Agent / Waivers,N/A
+Luke Musgrave,0.0,Free Agent / Waivers,N/A
+Tyler Boyd,4.8,Free Agent / Waivers,N/A
+Daniel Jones,4.94,Free Agent / Waivers,N/A
+Rashod Bateman,7.3,Free Agent / Waivers,N/A
+Tyler Johnson,12.9,Free Agent / Waivers,N/A
+Tre Tucker,4.2,Free Agent / Waivers,N/A
+Noah Fant,3.1,Free Agent / Waivers,N/A
+Jalin Hyatt,0.0,Free Agent / Waivers,N/A
+Keaton Mitchell,0.0,Free Agent / Waivers,N/A
+Packers D/ST,4.0,Free Agent / Waivers,N/A
+Dalvin Cook,0.0,Free Agent / Waivers,N/A
+Andrei Iosivas,5.6,Free Agent / Waivers,N/A
+Jahan Dotson,0.0,Free Agent / Waivers,N/A
+Luke McCaffrey,4.8,Free Agent / Waivers,N/A
+Sam Darnold,14.62,Free Agent / Waivers,N/A
+Quentin Johnston,6.8,Free Agent / Waivers,N/A
+Jason Myers,10.0,Free Agent / Waivers,N/A
+Russell Wilson,0.0,Free Agent / Waivers,N/A
+Jalen Tolbert,2.2,Free Agent / Waivers,N/A
+Buccaneers D/ST,6.0,Free Agent / Waivers,N/A
+Greg Dortch,11.1,Free Agent / Waivers,N/A
+DJ Chark Jr.,0.0,Free Agent / Waivers,N/A
+Hayden Hurst,5.3,Free Agent / Waivers,N/A
+Samaje Perine,2.0,Free Agent / Waivers,N/A
+Johnny Mundt,3.5,Free Agent / Waivers,N/A
+Nick Folk,6.0,Free Agent / Waivers,N/A
+Raiders D/ST,1.0,Free Agent / Waivers,N/A
+Daniel Carlson,3.0,Free Agent / Waivers,N/A
+Ricky Pearsall,0.0,Free Agent / Waivers,N/A
+Odell Beckham Jr.,0.0,Free Agent / Waivers,N/A
+Jalen McMillan,10.2,Free Agent / Waivers,N/A
+Ben Sinnott,0.0,Free Agent / Waivers,N/A
+Tucker Kraft,5.7,Free Agent / Waivers,N/A
+Joshua Karty,9.0,Free Agent / Waivers,N/A
+Patriots D/ST,15.0,Free Agent / Waivers,N/A
+Zach Ertz,5.8,Free Agent / Waivers,N/A
+Broncos D/ST,10.0,Free Agent / Waivers,N/A
+Will Reichard,4.0,Free Agent / Waivers,N/A
+Giants D/ST,6.0,Free Agent / Waivers,N/A
+Gardner Minshew,10.78,Free Agent / Waivers,N/A
+Darius Slayton,5.6,Free Agent / Waivers,N/A
+Drake Maye,0.0,Free Agent / Waivers,N/A
+Dawson Knox,3.3,Free Agent / Waivers,N/A
+Kenneth Gainwell,2.2,Free Agent / Waivers,N/A
+Elijah Mitchell,0.0,Free Agent / Waivers,N/A
+Eddy Pineiro,5.0,Free Agent / Waivers,N/A
+Dameon Pierce,1.6,Free Agent / Waivers,N/A
+Jonnu Smith,1.7,Free Agent / Waivers,N/A
+Matt Prater,8.0,Free Agent / Waivers,N/A
+D'Onta Foreman,0.0,Free Agent / Waivers,N/A
+Kimani Vidal,0.0,Free Agent / Waivers,N/A
+Mike Gesicki,4.8,Free Agent / Waivers,N/A
+Brayden Narveson,10.0,Free Agent / Waivers,N/A
+Josh Reynolds,9.5,Free Agent / Waivers,N/A
+Blake Grupe,22.0,Free Agent / Waivers,N/A
+Carson Steele,0.3,Free Agent / Waivers,N/A
+Jermaine Burton,0.0,Free Agent / Waivers,N/A
+Ray-Ray McCloud III,9.2,Free Agent / Waivers,N/A
+Audric Estime,1.4,Free Agent / Waivers,N/A
+Emanuel Wilson,6.8,Free Agent / Waivers,N/A
+Malik Willis,0.0,Free Agent / Waivers,N/A
+Kyle Juszczyk,6.0,Free Agent / Waivers,N/A
+Roschon Johnson,0.0,Free Agent / Waivers,N/A
+Zay Jones,0.0,Free Agent / Waivers,N/A
+Tom Brady,0.0,Free Agent / Waivers,N/A
+Michael Penix Jr.,0.0,Free Agent / Waivers,N/A
+Titans D/ST,10.0,Free Agent / Waivers,N/A
+Cordarrelle Patterson,1.3,Free Agent / Waivers,N/A
+Cam Little,7.0,Free Agent / Waivers,N/A
+Greg Dulcich,3.2,Free Agent / Waivers,N/A
+Darren Waller,0.0,Free Agent / Waivers,N/A
+Wil Lutz,11.0,Free Agent / Waivers,N/A
+Jacoby Brissett,8.04,Free Agent / Waivers,N/A
+J.J. McCarthy,0.0,Free Agent / Waivers,N/A
+Troy Franklin,0.0,Free Agent / Waivers,N/A
+Isaac Guerendo,0.0,Free Agent / Waivers,N/A
+Jordan Whittington,0.0,Free Agent / Waivers,N/A
+Trey Sermon,0.0,Free Agent / Waivers,N/A
+JuJu Smith-Schuster,0.0,Free Agent / Waivers,N/A
+Malachi Corley,0.0,Free Agent / Waivers,N/A
+Theo Johnson,2.8,Free Agent / Waivers,N/A
+Deuce Vaughn,0.4,Free Agent / Waivers,N/A
+Graham Gano,8.0,Free Agent / Waivers,N/A
+Will Shipley,0.0,Free Agent / Waivers,N/A
+Eric Gray,2.5,Free Agent / Waivers,N/A
+Rams D/ST,3.0,Free Agent / Waivers,N/A
+Ty Johnson,0.7,Free Agent / Waivers,N/A
+Panthers D/ST,-3.0,Free Agent / Waivers,N/A
+Jauan Jennings,11.4,Free Agent / Waivers,N/A
+Trey Palmer,2.9,Free Agent / Waivers,N/A
+Elijah Moore,3.9,Free Agent / Waivers,N/A
+Roman Wilson,0.0,Free Agent / Waivers,N/A
+Van Jefferson,1.1,Free Agent / Waivers,N/A
+Devaughn Vele,11.9,Free Agent / Waivers,N/A
+Pierre Strong Jr.,5.0,Free Agent / Waivers,N/A
+Michael Mayer,2.3,Free Agent / Waivers,N/A
+Kalif Raymond,1.2,Free Agent / Waivers,N/A
+Foster Moreau,14.3,Free Agent / Waivers,N/A
+Michael Badgley,0.0,Free Agent / Waivers,N/A
+Cam Akers,0.0,Free Agent / Waivers,N/A
+Noah Gray,6.7,Free Agent / Waivers,N/A
+KaVontae Turpin,6.0,Free Agent / Waivers,N/A
+Jonathan Mingo,4.3,Free Agent / Waivers,N/A
+Xavier Gipson,0.0,Free Agent / Waivers,N/A
+Nelson Agholor,1.6,Free Agent / Waivers,N/A
+Tyler Higbee,0.0,Free Agent / Waivers,N/A
+Jordan Akins,5.7,Free Agent / Waivers,N/A
+Isaiah Davis,0.0,Free Agent / Waivers,N/A
+Ja'Tavion Sanders,1.4,Free Agent / Waivers,N/A
+Braxton Berrios,0.0,Free Agent / Waivers,N/A
+Dyami Brown,0.0,Free Agent / Waivers,N/A
+Gerald Everett,0.9,Free Agent / Waivers,N/A
+AJ Dillon,0.0,Free Agent / Waivers,N/A
+Kylen Granson,0.0,Free Agent / Waivers,N/A
+Cedric Tillman,1.3,Free Agent / Waivers,N/A
+Cardinals D/ST,9.0,Free Agent / Waivers,N/A
+Aidan O'Connell,0.0,Free Agent / Waivers,N/A
+Joey Slye,10.0,Free Agent / Waivers,N/A
+Luke Schoonmaker,0.0,Free Agent / Waivers,N/A
+D'Ernest Johnson,0.0,Free Agent / Waivers,N/A
+Malik Washington,0.0,Free Agent / Waivers,N/A
+Jalen Nailor,9.1,Free Agent / Waivers,N/A
+Dylan Laube,0.0,Free Agent / Waivers,N/A
+Jameis Winston,0.0,Free Agent / Waivers,N/A
+Trayveon Williams,0.0,Free Agent / Waivers,N/A
+Javon Baker,0.0,Free Agent / Waivers,N/A
+Ameer Abdullah,0.0,Free Agent / Waivers,N/A
+Tim Patrick,0,Free Agent / Waivers,N/A
+Justin Watson,3.5,Free Agent / Waivers,N/A
+Trenton Irwin,1.6,Free Agent / Waivers,N/A
+Raheem Blackshear,0.0,Free Agent / Waivers,N/A
+Joe Flacco,0.0,Free Agent / Waivers,N/A
+Brenden Rice,0.0,Free Agent / Waivers,N/A
+Calvin Austin III,1.7,Free Agent / Waivers,N/A
+Treylon Burks,1.3,Free Agent / Waivers,N/A
+Emari Demercado,4.6,Free Agent / Waivers,N/A
+Skyy Moore,0.0,Free Agent / Waivers,N/A
+Sam Howell,0.0,Free Agent / Waivers,N/A
+Noah Brown,0.0,Free Agent / Waivers,N/A
+John Metchie III,0.0,Free Agent / Waivers,N/A
+Craig Reynolds,0.0,Free Agent / Waivers,N/A
+Kenny McIntosh,0.0,Free Agent / Waivers,N/A
+K.J. Osborn,5.1,Free Agent / Waivers,N/A
+Ronnie Rivers,1.6,Free Agent / Waivers,N/A
+Tutu Atwell,0.0,Free Agent / Waivers,N/A
+Dare Ogunbowale,1.3,Free Agent / Waivers,N/A
+Mack Hollins,10.5,Free Agent / Waivers,N/A
+Tyler Goodson,0.0,Free Agent / Waivers,N/A
+Kadarius Toney,0,Free Agent / Waivers,N/A
+Jake Bobo,0.0,Free Agent / Waivers,N/A
+Nyheim Hines,0.0,Free Agent / Waivers,N/A
+Julius Chestnut,0.0,Free Agent / Waivers,N/A
+Derius Davis,0.9,Free Agent / Waivers,N/A
+Daniel Bellinger,1.3,Free Agent / Waivers,N/A
+Kenny Pickett,0.0,Free Agent / Waivers,N/A
+JaMycal Hasty,0.0,Free Agent / Waivers,N/A
+Spencer Rattler,0.0,Free Agent / Waivers,N/A
+Mecole Hardman,0.0,Free Agent / Waivers,N/A
+Cade York,0.0,Free Agent / Waivers,N/A
+Hendon Hooker,0.0,Free Agent / Waivers,N/A
+Michael Thomas,0,Free Agent / Waivers,N/A
+Chase Edmonds,0.0,Free Agent / Waivers,N/A
+Devontez Walker,0.0,Free Agent / Waivers,N/A
+Marquez Valdes-Scantling,2.9,Free Agent / Waivers,N/A
+Austin Hooper,5.1,Free Agent / Waivers,N/A
+Rondale Moore,0.0,Free Agent / Waivers,N/A
+Carson Wentz,0.0,Free Agent / Waivers,N/A
+Kareem Hunt,0,Free Agent / Waivers,N/A
+Joshua Dobbs,0.0,Free Agent / Waivers,N/A
+Tyrod Taylor,6.14,Free Agent / Waivers,N/A
+Velus Jones Jr.,0.9,Free Agent / Waivers,N/A
+Brock Wright,1.2,Free Agent / Waivers,N/A
+Anders Carlson,0,Free Agent / Waivers,N/A
+Sione Vaki,0.0,Free Agent / Waivers,N/A
+Jelani Woods,0.0,Free Agent / Waivers,N/A
+Israel Abanikanda,0.0,Free Agent / Waivers,N/A
+Josh Oliver,4.7,Free Agent / Waivers,N/A
+Bo Melton,0.0,Free Agent / Waivers,N/A
+Jake Browning,0.0,Free Agent / Waivers,N/A
+Cade Stover,0.0,Free Agent / Waivers,N/A
+Will Dissly,2.3,Free Agent / Waivers,N/A
+KhaDarel Hodge,0.0,Free Agent / Waivers,N/A
+Sean Tucker,0.0,Free Agent / Waivers,N/A
+Darnell Washington,1.5,Free Agent / Waivers,N/A
+Joe Milton III,0.0,Free Agent / Waivers,N/A
+Louis Rees-Zammit,0,Free Agent / Waivers,N/A
+Connor Heyward,0.0,Free Agent / Waivers,N/A
+Chris Naggar,0,Free Agent / Waivers,N/A
+Jase McClellan,0.0,Free Agent / Waivers,N/A
+Tyquan Thornton,4.7,Free Agent / Waivers,N/A
+Johnny Wilson,0.0,Free Agent / Waivers,N/A
+Drew Lock,0.0,Free Agent / Waivers,N/A
+Michael Carter,0,Free Agent / Waivers,N/A
+DeeJay Dallas,6.0,Free Agent / Waivers,N/A
+Jeremy McNichols,0.0,Free Agent / Waivers,N/A
+Jimmy Garoppolo,0.0,Free Agent / Waivers,N/A
+Olamide Zaccheaus,2.5,Free Agent / Waivers,N/A
+Tyson Bagent,0.0,Free Agent / Waivers,N/A
+Tommy Tremble,0.0,Free Agent / Waivers,N/A
+Adam Trautman,0.0,Free Agent / Waivers,N/A
+Jacob Cowing,0.0,Free Agent / Waivers,N/A
+Ryan Flournoy,0.0,Free Agent / Waivers,N/A
+Zach Wilson,0.0,Free Agent / Waivers,N/A
+Jeremy Ruckert,0.0,Free Agent / Waivers,N/A
+Tommy DeVito,0.0,Free Agent / Waivers,N/A
+Rasheen Ali,0.0,Free Agent / Waivers,N/A
+Jared Wiley,0.0,Free Agent / Waivers,N/A
+Durham Smythe,0.0,Free Agent / Waivers,N/A
+Brandon Powell,0.0,Free Agent / Waivers,N/A
+Devin Duvernay,0.3,Free Agent / Waivers,N/A
+A.T. Perry,0.0,Free Agent / Waivers,N/A
+Royce Freeman,0,Free Agent / Waivers,N/A
+Tyler Scott,0.0,Free Agent / Waivers,N/A
+Isaiah Williams,0.0,Free Agent / Waivers,N/A
+Nick Mullens,0.0,Free Agent / Waivers,N/A
+Mac Jones,0.0,Free Agent / Waivers,N/A
+Robert Woods,0.0,Free Agent / Waivers,N/A
+Trey Lance,0.0,Free Agent / Waivers,N/A
+Brevin Jordan,1.3,Free Agent / Waivers,N/A
+Alec Ingold,0.8,Free Agent / Waivers,N/A
+Mitchell Trubisky,0.0,Free Agent / Waivers,N/A
+Evan Hull,0,Free Agent / Waivers,N/A
+Trace McSorley,0,Free Agent / Waivers,N/A
+Michael Gallup,0.0,Free Agent / Waivers,N/A
+Patrick Taylor Jr.,0.0,Free Agent / Waivers,N/A
+Cooper Rush,-0.1,Free Agent / Waivers,N/A
+Grant Calcaterra,2.1,Free Agent / Waivers,N/A
+Jermar Jefferson,0,Free Agent / Waivers,N/A
+Tanner Brown,0,Free Agent / Waivers,N/A
+Chris Rodriguez Jr.,0,Free Agent / Waivers,N/A
+Ashton Dulin,13.4,Free Agent / Waivers,N/A
+Stetson Bennett,0.0,Free Agent / Waivers,N/A
+Jarrett Stidham,0.0,Free Agent / Waivers,N/A
+Britain Covey,0.0,Free Agent / Waivers,N/A
+Mason Crosby,0,Free Agent / Waivers,N/A
+Mo Alie-Cox,0.0,Free Agent / Waivers,N/A
+C.J. Ham,1.1,Free Agent / Waivers,N/A
+Ramiz Ahmed,0,Free Agent / Waivers,N/A
+Ainias Smith,0.0,Free Agent / Waivers,N/A
+Jalen Brooks,2.8,Free Agent / Waivers,N/A
+Mason Rudolph,0.0,Free Agent / Waivers,N/A
+Malik Heath,0.0,Free Agent / Waivers,N/A
+Erick All Jr.,0.0,Free Agent / Waivers,N/A
+Jamari Thrash,0.0,Free Agent / Waivers,N/A
+Jordan Travis,0.0,Free Agent / Waivers,N/A
+Tanner Hudson,1.8,Free Agent / Waivers,N/A
+Marcus Mariota,0.0,Free Agent / Waivers,N/A
+Charlie Jones,-0.5,Free Agent / Waivers,N/A
+Josh Johnson,0.0,Free Agent / Waivers,N/A
+Greg Joseph,0,Free Agent / Waivers,N/A
+Donovan Peoples-Jones,0,Free Agent / Waivers,N/A
+Spencer Shrader,3.0,Free Agent / Waivers,N/A
+Patrick Ricard,0.0,Free Agent / Waivers,N/A
+Skylar Thompson,0.0,Free Agent / Waivers,N/A
+J.J. Taylor,0,Free Agent / Waivers,N/A
+Chad Ryland,0,Free Agent / Waivers,N/A
+Bub Means,0.0,Free Agent / Waivers,N/A
+Davis Allen,0.0,Free Agent / Waivers,N/A
+Laviska Shenault Jr.,1.1,Free Agent / Waivers,N/A
+Elijah Higgins,3.2,Free Agent / Waivers,N/A
+Deonte Harty,0.0,Free Agent / Waivers,N/A
+Ronnie Bell,0.0,Free Agent / Waivers,N/A
+Andy Dalton,0.0,Free Agent / Waivers,N/A
+Parker Washington,1.3,Free Agent / Waivers,N/A
+Julio Jones,0,Free Agent / Waivers,N/A
+Rodrigo Blankenship,0,Free Agent / Waivers,N/A
+Davis Mills,0.0,Free Agent / Waivers,N/A
+Hunter Renfrow,0.0,Free Agent / Waivers,N/A
+Austin Seibert,0,Free Agent / Waivers,N/A
+Brandon McManus,0,Free Agent / Waivers,N/A
+Travis Homer,1.0,Free Agent / Waivers,N/A
+Scotty Miller,0.0,Free Agent / Waivers,N/A
+Xavier Hutchinson,1.3,Free Agent / Waivers,N/A
+Drew Sample,0.0,Free Agent / Waivers,N/A
+DeAndre Carter,1.6,Free Agent / Waivers,N/A
+David Moore,2.4,Free Agent / Waivers,N/A
+Jha'Quan Jackson,0.0,Free Agent / Waivers,N/A
+Cedrick Wilson Jr.,-2.0,Free Agent / Waivers,N/A
+Jamison Crowder,1.5,Free Agent / Waivers,N/A
+Lucas Havrisik,0,Free Agent / Waivers,N/A
+Anthony Gould,0.0,Free Agent / Waivers,N/A
+Leonard Fournette,0,Free Agent / Waivers,N/A
+Drew Ogletree,0.0,Free Agent / Waivers,N/A
+Ben Sims,0.0,Free Agent / Waivers,N/A
+Marcedes Lewis,0.0,Free Agent / Waivers,N/A
+Pharaoh Brown,0.0,Free Agent / Waivers,N/A
+Trishton Jackson,0.0,Free Agent / Waivers,N/A
+Kayshon Boutte,0.0,Free Agent / Waivers,N/A
+Chase Claypool,0,Free Agent / Waivers,N/A
+DeVante Parker,0.0,Free Agent / Waivers,N/A
+Nick Westbrook-Ikhine,0.0,Free Agent / Waivers,N/A
+Hassan Haskins,0.0,Free Agent / Waivers,N/A
+AJ Barner,0.0,Free Agent / Waivers,N/A
+Tylan Wallace,0.0,Free Agent / Waivers,N/A
+Michael Wiley,0,Free Agent / Waivers,N/A
+Hunter Luepke,3.8,Free Agent / Waivers,N/A
+Chris Conley,0.0,Free Agent / Waivers,N/A
+Riley Patterson,0,Free Agent / Waivers,N/A
+Avery Williams,0.0,Free Agent / Waivers,N/A
+Kyle Trask,-0.2,Free Agent / Waivers,N/A
+Parris Campbell,0,Free Agent / Waivers,N/A
+Xavier Weaver,0.0,Free Agent / Waivers,N/A
+Albert Okwuegbunam Jr.,0.0,Free Agent / Waivers,N/A
+Blake Watson,0.0,Free Agent / Waivers,N/A
+Logan Thomas,0,Free Agent / Waivers,N/A
+Charlie Woerner,1.4,Free Agent / Waivers,N/A
+Michael Pratt,0,Free Agent / Waivers,N/A
+Equanimeous St. Brown,0,Free Agent / Waivers,N/A
+Chris Evans,0.0,Free Agent / Waivers,N/A
+Gunner Olszewski,0.0,Free Agent / Waivers,N/A
+Khari Blasingame,0.0,Free Agent / Waivers,N/A
+Brenton Strange,0.0,Free Agent / Waivers,N/A
+Casey Washington,0.0,Free Agent / Waivers,N/A
+Jaheim Bell,0.0,Free Agent / Waivers,N/A
+SaRodorick Thompson Jr.,0,Free Agent / Waivers,N/A
+Ryan Tannehill,0,Free Agent / Waivers,N/A
+Josh Whyle,0.0,Free Agent / Waivers,N/A
+Julian Hill,1.6,Free Agent / Waivers,N/A
+River Cracraft,0.0,Free Agent / Waivers,N/A
+Jerick McKinnon,0,Free Agent / Waivers,N/A
+Lucas Krull,0.0,Free Agent / Waivers,N/A
+Taylor Heinicke,0.0,Free Agent / Waivers,N/A
+Eric Saubert,0.0,Free Agent / Waivers,N/A
+Dorian Thompson-Robinson,0.0,Free Agent / Waivers,N/A
+Kyle Allen,0.0,Free Agent / Waivers,N/A
+Brandon Allen,-0.1,Free Agent / Waivers,N/A
+Peyton Hendershot,0.0,Free Agent / Waivers,N/A
+Damien Harris,0.0,Free Agent / Waivers,N/A
+Cornelius Johnson,0,Free Agent / Waivers,N/A
+Sean Clifford,0,Free Agent / Waivers,N/A
+Christopher Dunn,0,Free Agent / Waivers,N/A
+David Bell,0,Free Agent / Waivers,N/A
+Josh Lambo,0,Free Agent / Waivers,N/A
+Charlie Kolar,0.0,Free Agent / Waivers,N/A
+Cody Schrader,0.0,Free Agent / Waivers,N/A
+Kene Nwangwu,0.0,Free Agent / Waivers,N/A
+Irv Smith Jr.,0,Free Agent / Waivers,N/A
+Jacob Saylors,0,Free Agent / Waivers,N/A
+Trent Sherfield Sr.,0.0,Free Agent / Waivers,N/A
+Byron Pringle,0,Free Agent / Waivers,N/A
+Jordan Mims,1.1,Free Agent / Waivers,N/A
+Matt Ryan,0,Free Agent / Waivers,N/A
+Nick Foles,0,Free Agent / Waivers,N/A
+Tre'Quan Smith,0.0,Free Agent / Waivers,N/A
+Teddy Bridgewater,0.0,Free Agent / Waivers,N/A
+Tip Reiman,0.0,Free Agent / Waivers,N/A
+Chris Moore,0.0,Free Agent / Waivers,N/A
+Ian Thomas,0.0,Free Agent / Waivers,N/A
+Allen Robinson II,0,Free Agent / Waivers,N/A
+Quintin Morris,0.0,Free Agent / Waivers,N/A
+DJ Turner,1.9,Free Agent / Waivers,N/A
+Isaiah McKenzie,0,Free Agent / Waivers,N/A
+Darrynton Evans,0.0,Free Agent / Waivers,N/A
+Easton Stick,0.0,Free Agent / Waivers,N/A
+Isaiah Spiller,0,Free Agent / Waivers,N/A
+British Brooks,0.0,Free Agent / Waivers,N/A
+Luke Farrell,0.0,Free Agent / Waivers,N/A
+Tanner McKee,0.0,Free Agent / Waivers,N/A
+Parker Hesse,0.0,Free Agent / Waivers,N/A
+Lil'Jordan Humphrey,0.0,Free Agent / Waivers,N/A
+Robbie Gould,0,Free Agent / Waivers,N/A
+Mike White,0,Free Agent / Waivers,N/A
+Desmond Ridder,0,Free Agent / Waivers,N/A
+Lucky Jackson,0,Free Agent / Waivers,N/A
+Dante Pettis,0,Free Agent / Waivers,N/A
+Antoine Green,0.0,Free Agent / Waivers,N/A
+Dante Miller,0,Free Agent / Waivers,N/A
+Justin Jackson,0.0,Free Agent / Waivers,N/A
+Bryce Ford-Wheaton,0.0,Free Agent / Waivers,N/A
+Brett Maher,0,Free Agent / Waivers,N/A
+John Bates,0.0,Free Agent / Waivers,N/A
+Cole Fotheringham,0,Free Agent / Waivers,N/A
+John Stephens Jr.,0.0,Free Agent / Waivers,N/A
+Jaren Hall,0,Free Agent / Waivers,N/A
+Case Keenum,0.0,Free Agent / Waivers,N/A
+Devin Leary,0,Free Agent / Waivers,N/A
+Jake Tonges,0.0,Free Agent / Waivers,N/A
+Dareke Young,0.0,Free Agent / Waivers,N/A
+Rashaad Penny,0,Free Agent / Waivers,N/A
+Payne Durham,0.0,Free Agent / Waivers,N/A
+Clayton Tune,0.0,Free Agent / Waivers,N/A
+Josh Gordon,0,Free Agent / Waivers,N/A
+Harrison Bryant,0.0,Free Agent / Waivers,N/A
+Nathan Rourke,0,Free Agent / Waivers,N/A
+Ben DiNucci,0,Free Agent / Waivers,N/A
+Steven Sims,0.0,Free Agent / Waivers,N/A
+Jaelon Darden,0.0,Free Agent / Waivers,N/A
+Nick Sciba,0,Free Agent / Waivers,N/A
+Reggie Gilliam,0.0,Free Agent / Waivers,N/A
+Zach Pascal,0.0,Free Agent / Waivers,N/A
+Stone Smartt,0.0,Free Agent / Waivers,N/A
+Hunter Long,0.0,Free Agent / Waivers,N/A
+DeWayne McBride,0,Free Agent / Waivers,N/A
+Grant DuBose,0.0,Free Agent / Waivers,N/A
+Tyreik McAllister,0.0,Free Agent / Waivers,N/A
+Keaontay Ingram,0,Free Agent / Waivers,N/A
+Keilan Robinson,0.0,Free Agent / Waivers,N/A
+Jake Funk,0,Free Agent / Waivers,N/A
+Chris Manhertz,0.0,Free Agent / Waivers,N/A
+Myles Gaskin,-0.3,Free Agent / Waivers,N/A
+Ryan Succop,0,Free Agent / Waivers,N/A
+Will Mallory,0.0,Free Agent / Waivers,N/A
+Derek Watt,0,Free Agent / Waivers,N/A
+Brady Russell,0.0,Free Agent / Waivers,N/A
+Kameron Johnson,0.0,Free Agent / Waivers,N/A
+Adam Prentice,0.0,Free Agent / Waivers,N/A
+Scott Matlock,0.0,Free Agent / Waivers,N/A
+Chris Brooks,0,Free Agent / Waivers,N/A
+Max Duggan,0,Free Agent / Waivers,N/A
+Tejhaun Palmer,0,Free Agent / Waivers,N/A
+Kevin Harris,0,Free Agent / Waivers,N/A
+Nathan Peterman,0,Free Agent / Waivers,N/A
+Ko Kieft,0.0,Free Agent / Waivers,N/A
+Simi Fehoko,0.0,Free Agent / Waivers,N/A
+Boston Scott,0,Free Agent / Waivers,N/A
+Zach Evans,0,Free Agent / Waivers,N/A
+Anthony Brown Jr.,0,Free Agent / Waivers,N/A
+Ross Dwelley,0.0,Free Agent / Waivers,N/A
+Colson Yankoff,0.0,Free Agent / Waivers,N/A
+Chris Blair,0.0,Free Agent / Waivers,N/A
+Bailey Zappe,0,Free Agent / Waivers,N/A
+Quez Watkins,0,Free Agent / Waivers,N/A
+Terrace Marshall Jr.,0,Free Agent / Waivers,N/A
+Tucker Fisk,0,Free Agent / Waivers,N/A
+Deneric Prince,0,Free Agent / Waivers,N/A
+Randy Bullock,0,Free Agent / Waivers,N/A
+Joshua Kelley,0,Free Agent / Waivers,N/A
+Melvin Gordon III,0,Free Agent / Waivers,N/A
+Jordan Matthews,0.0,Free Agent / Waivers,N/A
+Isaiah Hodgins,0,Free Agent / Waivers,N/A
+MyCole Pruitt,1.9,Free Agent / Waivers,N/A
+Tyler Huntley,0,Free Agent / Waivers,N/A
+Armani Rogers,0,Free Agent / Waivers,N/A
